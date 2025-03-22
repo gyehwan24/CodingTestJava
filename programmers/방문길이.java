@@ -1,4 +1,4 @@
-// https://school.programmers.co.kr/learn/courses/30/lessons/49994
+package programmers;// https://school.programmers.co.kr/learn/courses/30/lessons/49994
 
 import java.io.*;
 import java.util.*;
