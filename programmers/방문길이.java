@@ -1,8 +1,8 @@
-package programmers;// https://school.programmers.co.kr/learn/courses/30/lessons/49994
+package programmers;
+// https://school.programmers.co.kr/learn/courses/30/lessons/49994
 
-import java.io.*;
 import java.util.*;
-class Solution {
+class 방문길이 {
     public int solution(String dirs) {
         int answer = 0; // 처음 가본 길의 개수
         // 1. 현재 좌표 설정. 초기화 0,0
