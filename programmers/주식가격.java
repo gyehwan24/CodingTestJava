@@ -8,14 +8,11 @@ class 주식가격 {
         for (int i = 0; i < prices.length; i++) {
             int target = prices[i];
             for (int j = i+1; j < prices.length; j++) {
-                System.out.println(target + "vs" + prices[j]);
-                if (target <= prices[j]) {
-                    answer[i]++;
-                } else {
+                answer[i]++;
+                if (target > prices[j]) {
                     break;
                 }
             }
-            System.out.println("========");
         }
         return answer;
     }
