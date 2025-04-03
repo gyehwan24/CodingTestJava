@@ -1,4 +1,4 @@
-package programmers;
+package programmers.스택;
 // https://school.programmers.co.kr/learn/courses/30/lessons/12973
 
 import java.util.*;

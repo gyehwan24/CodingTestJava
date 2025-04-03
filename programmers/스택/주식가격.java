@@ -1,7 +1,6 @@
-package programmers;
+package programmers.스택;
  // https://school.programmers.co.kr/learn/courses/30/lessons/42584#
 
-import java.io.*;
 class 주식가격 {
     public int[] solution(int[] prices) {
         int[] answer = new int[prices.length];

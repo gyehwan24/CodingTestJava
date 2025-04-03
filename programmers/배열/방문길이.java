@@ -1,4 +1,4 @@
-package programmers;
+package programmers.배열;
 // https://school.programmers.co.kr/learn/courses/30/lessons/49994
 
 import java.util.*;
