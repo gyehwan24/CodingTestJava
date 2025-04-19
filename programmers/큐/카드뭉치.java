@@ -2,7 +2,7 @@ package programmers.큐;
 // // https://school.programmers.co.kr/learn/courses/30/lessons/159994
 
 import java.util.*;
-class Solution {
+class 카드뭉치 {
     public String solution(String[] cards1, String[] cards2, String[] goal) {
         // cards1, cards2를 각각 큐로 변환한다.
         Deque<String> deque1 = new ArrayDeque<>();
